@@ -1,4 +1,4 @@
-### Hello!💜.
+### Hello!💜
 
 Me chamo Yohana, tenho 18 anos e atualmente sou estudante de Engenharia de Software.
 <div style="display: inline_block"><br>

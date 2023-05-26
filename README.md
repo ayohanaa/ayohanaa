@@ -4,10 +4,6 @@
   <p>🌱Me chamo Yohana, tenho 18 anos e atualmente sou estudante de Engenharia de Software.</p>
 </div>
 
-<div>
-  <img height=150px src="https://github-readme-stats.vercel.app/api?username=ayohanaa&show_icons=true&theme=radical"/>
-  
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yohana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
